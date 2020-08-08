@@ -1,0 +1,14 @@
+- name: Projekte
+  image: projekte.png
+  text: Fortschritt entsteht durch Veränderung. Ich bearbeiten Projekte mit agilen Methoden wie SCRUM um die richtigen Veränderung herbeizuführen. 
+  link: Projekte.html
+
+- name: Webseiten
+  image: website.png
+  text: Ihre Webseite ist Ihr Aushängeschild im Internet. Ich erstellen Ihnen eine übersichtliche und moderne Webseite.
+  link: website.html
+
+- name: Apps
+  image: apps.png
+  text: Unser Mobiltelefon ist unser täglicher Begleiter und durch Apps wird es zum universellen Werkzeug. Ich erstellen Ihnen die App, die zu Ihrem Produkt oder Ihrer Dienstleitung passt. 
+  link: apps.html

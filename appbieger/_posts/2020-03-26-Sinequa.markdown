@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Sinequa die Enterprise Suchmaschine"
+date:   2020-03-26 13:43:46 +0200
+categories: Sinequa AppBieger Suchmaschine Enterprise
+---
+# Sinequa die Enterprise Suchmaschine
+ 
+Das Intranet ist eines der wichtigsten Orte im digitalen Arbeitsalltag. Wir erzeugen und teilen täglich Informationen in einer Vielzahl von Systemen.  
+
+
+![alt text](/assets/img/sinequa-logo.jpg "Logo Title Text 1"){:height="40px" width="40px"}
+
+
+![alt text](/assets/img/sinequa-logo.jpg "Logo Title Text 1"){:class="img-responsive"}
+
+ 
+Ähnlich wie es im Internet tausende von Webseiten gibt, besteht das firmeninterne Intranet aus einer Vielzahl von Portalen, Wikis und Datenbanken. Jedes System, hat eigene Suchfunktionen, um die im eigenen System gespeicherten Informationen auffindbar zu machen. Eine übergreifende Suchmaschine, so wie Google für das Internet, vermissen die Mitarbeiter jedoch meist täglich. 
+ 
+Enterprise Suchmaschinen, lösen diese Probleme, indem sie den Nutzer eine Oberfläche zum Durchsuchen aller Systeme bietet. Firmen, die konsequent auf Enterprise Suchmaschinen setzen, machen ihre vorhandenen Mitarbeiter sofort effizienter. 
+ 
+Doch die Realität sieht oftmals anders aus. Die Mitarbeiter müssen sich, um Informationen zu finden, in verschiedenste Systeme einloggen, um in jedem separat nach den gewünschten Informationen zu suchen und diese selbst zusammenführen. Von dem gewünschten "mal eben googeln" ist dieses Verhalten weit entfernt. 
+ 
+Doch warum steht nicht in jedem Intranet eine kleine Google-Suchmaschine und bietet dem Mitarbeiter diesen Service? Weil jedes Intranet einmalig ist. Jede Firma hat eine andere Kombination aus Login, Rechtssystemen?, Datenbanken und Wikis. 
+Selbst wenn Standardprodukte wie Office365, Confluence oder SAP eingesetzt werden, muss jedes Produkt individuell für die Besonderheiten der Firma angepasst werden.
+ 
+Die Lösung für das Problem ist eine Enterprise Suchmaschine, die so gut wie Google suchen kann, sich mit allen Systemen verbindet und auf die Eigenheiten der Firmen angepasst werden kann. 
+ 
+2017 Stand ich als neuer Product Owner einer Enterprise Suchmaschine eines großen Automobilherstellers vor demselben Problem. Die vorhandene Suchmaschine war langsam, teuer und war von einer "Google Like" Suchmaschine weit entfernt. Schnell wurde uns klar, dass die eingesetzte Open Source Lösung sich zu einer Sackgasse entwickelt hatte. Daraufhin, haben wir uns im Markt umgesehen und die Versprechungen der Hersteller und Projekte waren sehr vielversprechend.
+In Gesprächen mit den Firmen, die die angepriesenen Lösungen auch wirklich im produktiven Einsatze hatten, stellte sich jedoch sehr schnell heraus, dass viele Versprechungen der Hersteller nicht gehalten wurden. 
+ 
+Sinequa erschien uns am Anfang sehr teuer, besonders im Vergleich mit den Open Source Lösungen, die es ja vermeidlich kostenlos gibt. Ein befreundeter Chemiekonzern hatte jedoch bereits alle namenhaften Lösungen über mehrere Jahre durchgerechnet. Dabei ist aufgefallen, dass die meisten Lösungen zwar geringe Startkosten haben, aber für eine "Google Like" Lösung sehr viele kommerzielle Zusatzpakete gekauft und Anpassungen gemacht werden müssen. Auch wenn diese Lösungen mit der Anzahl der Nutzer und den angeschlossenen Systemen wächst, wachsen die Kosten oftmals exponentiell. Zudem haben wir selten zufriedene Kunden gefunden.
+Wir haben uns dann für Sinequa entschieden. Dabei waren für uns die Langzeitkosten und die über 180 schon vorhandenen Konnektoren zu anderen Systemen eines der wichtigsten Kriterien.
+ 
+Dadurch, dass Sinequa ein komplettes und in sich funktionierendes System ausliefert, war die Inbetriebnahme recht schnell erledigt und wir konnten innerhalb von ein paar Monaten unsere alte Suchmaschine ablösen. 
+ 
+Mittlerweile haben wir mit Sinequa eine wesentlich bessere Suchmaschine und über 200 Systeme angeschlossen. Mit über 12.000 Suchanfragen am Tag, betreiben wir eine der größeren Internet Suchmaschinen. Von der Sinequa Lösung bin ich persönlich überzeugt und freue mich, dass unsere Mitarbeiter jetzt schneller Informationen finden. 
+ 
+Für einen Erfahrungsaustausch, können Sie mich unter stephan@appbieger.com kontaktieren. 

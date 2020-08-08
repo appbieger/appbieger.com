@@ -1,0 +1,73 @@
+- name: Volkswagen
+  image: volkswagen.png
+  link: https://volkswagen-net.de
+
+- name: Audi
+  image: audi.png
+  link: https://portal.epp.audi.vwg/
+
+- name: Skoda
+  image: skoda.png
+  link: https://eportal.skoda.vwg/b2ewps80/portal/
+
+- name: Financial Services
+  image: fsag.png
+  link: https://volkswagen-net.de
+
+- name: SEAT
+  image: seat.png
+  link: https://volkswagen-net.de
+
+
+
+- name: Bentley
+  image: bentley.png
+  link: http://bentleyintranet.bentley.emea.vwg/pages/Welcome.aspx
+
+ 
+- name: Bugatti
+  image: bugatti.png
+  link: https://www.bugatti.com/de/
+
+
+- name: Ducati
+  image: ducati.png
+  link: https://www.ducati.com/de/de/home
+
+
+- name: Lamborghini
+  image: lamborghini.png
+  link: https://www.lamborghini.com/de-en
+
+
+
+
+- name: Moia
+  image: moia.png
+  link: https://www.moia.io/de-DE?gclid=EAIaIQobChMItuHK2d3l4QIVC-J3Ch07nwNxEAAYASAAEgJZWvD_BwE
+
+
+- name: Porsche
+  image: porsche.png
+  link: https://www.porsche.com/germany/
+
+ 
+- name: RIO
+  image: RIO.png
+  link:  https://rio.cloud/de/
+
+
+- name: Volkswagen
+  image: volkswagen.png
+  link: https://volkswagen-net.de
+
+- name: Group Components
+  image: Volkswagen_Group_Components.png
+  link: https://volkswagen-net.de/wikis/display/GroupComponents/Volkswagen+Group+Components+Startseite
+
+- name: VW Nutzfahrzeuge
+  image: Volkswagen_Nutzfahrzeuge.png
+  link: https://volkswagen-net.de/pkmscdsso?https://soco.volkswagen.com/sbc/community/volkswagen-nutzfahrzeuge
+
+
+ 

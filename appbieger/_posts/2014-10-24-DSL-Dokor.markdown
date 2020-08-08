@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "DSL-Doktor"
+date:   2014-10-24 13:43:46 +0200
+categories: Sinequa AppBieger Suchmaschine Enterprise
+---
+# Hilft bei der Optimierung deines DSL-Anschlusses
+Mit dieser App können Sie Ihren DSL-Anschluss optimieren.
+
+Die App verbindet sich mit Ihrer FritzBox und zeigt Ihnen die aktuelle sowie die maximal mögliche Internetgeschwindigkeit Ihrer DSL-Leitung an. Dabei handelt es sich um die tatsächliche maximal erreichbare Geschwindigkeit, die oftmals von den Angaben des Providers abweicht.
+
+Zusätzlich erhalten Sie eine Empfehlung wie Sie Ihren DSL-Anschluss optimal auf Ihre persönlichen Bedürfnisse abstimmen können.
+
+Bitte beachten Sie das der DSL-Doktor nur an DSL Anschlüssen an den die FritzBox direkt an der DSL Leitung angeschlossen ist funtioniert. In fällen in den die Internetverbindung über ein Kabelmodem realisiert wird (z.B. bei Kabel Deutschland und anderen Kabelanschlüssen) kann der DSL-Doktor keine Werte messen.
+
+Die in der App angezeigten Daten werden auch auf der Weboberfläche der FritzBox angezeigt. Die App zeigt Sie jedoch verständlicher an und gibt eine Empfehlung wie Sie optimieren können.
+ 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+ 
+Der Support für die App wurde in Oktober 2014 eingestellt.
