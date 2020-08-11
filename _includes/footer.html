@@ -1,37 +1,44 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+<footer class="site-footer h-card container-appbieger-footer1""> 
 
+
+  
   <div class="wrapper">
-
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
+         <b>AppBieger Stephan Tomforde, Reith 27, 21698 Brest</b>
+        <br>
+        Tel: (04762) 183107
     </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
   </div>
-
+</div>
+ 
+</div>
+  
 </footer>
+<footer class="site-footer h-card container-appbieger-footer2">
+ 
+
+ 
+<div class="wrapper ">
+  <div class="footer-col-wrapper">
+    <div class="footer-col"> 
+
+        {% for menue in site.data.footerMeue %}
+
+        <div class="container-appbieger-footer2-div">
+            <a class="container-appbieger-footer2-link" href="{{ menue.link }}">
+              {{ menue.name }}
+            </a>
+          </div>
+        {% endfor %}
+       <br>
+        AppBieger 
+       
+
+     
+  </div>
+</div>
+</div>
+  
+</footer>
+

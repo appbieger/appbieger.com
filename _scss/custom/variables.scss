@@ -1,5 +1,130 @@
-$primary: #8d021f; // burgundy
+$primary: #36659a; // burgundy
 
 
-$body-bg: #f5f7fa;
-$body-color: #111;
+$body-bg: #fefffe;
+$body-color: #656665;
+ 
+$brand-color:           #36659a ;
+$brand-color-light:     lighten($brand-color, 40%);
+$brand-color-dark:      darken($brand-color, 25%);
+
+$site-title-color:      $brand-color-dark ;
+
+$text-color:            #656665 !important;
+$background-color:      #fdfdfd !important;
+$code-background-color: #eeeeff !important;
+
+h1, h2  {
+   color:            #36659a !important;
+   font-family: "Roboto",sans-serif,"google" !important;
+}
+
+ h3, h4, h5, h6 {
+  color:            #666 !important;
+  font-family: "Roboto",sans-serif,"google" !important;
+}
+
+h3 {
+  font-size: small;
+}
+
+.post-meta {
+  float: right;
+}
+
+.appbiegr-footnote {
+  font-size: 13px !important;
+  color: black !important;
+}
+ 
+.appbieger-main {
+  font-size: 16px;
+  line-height: 1.5;
+  }
+ 
+  $base-font-family: -apple-system, BlinkMacSystemFont, "Roboto",sans-serif,"google" !important;;
+  $code-font-family: "Roboto",sans-serif,"google" !important;
+  $base-font-size:   16px !default;
+  $base-font-weight: 300 !default;
+  $small-font-size:  $base-font-size * 0.875 !default;
+  $base-line-height: 1.5 !default;
+  
+  $spacing-unit:     30px !default;
+  
+  $table-text-align: left !default;
+
+// Width of the content area
+$content-width:    12000px !important;
+
+$on-palm:          1200px !important;
+$on-laptop:        12000px !important;
+
+.site-nav {
+  height: 86px !important;
+
+}
+
+.site-nav  { 
+   .page-link {
+    color: $text-color;
+    border: none;
+   }
+  div {
+
+      margin-top:  20px; 
+    
+  }
+
+
+}
+
+ 
+.container-appbieger-footer1 { 
+    background-color:  #f7f8f7
+  }
+
+
+.container-appbieger-footer2 { 
+  background-color: #323332;
+
+}
+.container-appbieger-footer2-link {
+  color: white; 
+  text-decoration: underline;
+}
+.container-appbieger-footer2-link:visited { 
+  color:     white; 
+  text-decoration: underline;
+}
+
+.container-appbieger-footer2-div{ 
+  padding-right: 10px;
+  float: left;
+}
+
+.appbieger-header-logo-background{ 
+  background-image: url(../img/desktopBackground.jpg);
+  background-position-x: 50%;
+  background-position-y: 50%; 
+  background-size: cover;
+  background-size: cover;
+   height:320px;
+   position: relative;
+   z-index: -1;
+}
+ 
+ 
+ 
+.appbieger-header-schraege{ 
+  background-color: white;
+   height:100px; 
+   width: 100%;
+   position: absolute;
+   bottom: -50px;
+   transform: skew(0deg,-2deg);
+   overflow: hidden; 
+   z-index: 1;
+}
+ 
+ 
+
