@@ -33,7 +33,7 @@ Ich bin im Mai 1982 geboren und lebe in Reith.
 Lebenslauf Stephan Tomforde.pdf  <br>
 Adobe Acrobat Dokument [43.2 KB]    <br><br>
 
-    <a class="container-appbieger-footer2-link" href="./projekte.html">
+    <a class="container-appbieger-footer2-link" href="./download/Lebenslauf_Stephan_Tomforde.pdf">
       <button type="button" class="btn btn-primary">Download</button>
     </a>
 </div>
