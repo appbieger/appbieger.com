@@ -8,7 +8,7 @@ permalink: /kontakt
   <div class="col-1 col-sm-1 col-md-2 col-lg-2 col-xl-2"></div>
   <div class="col-10 col-sm-10 col-md-8 col-lg-8 col-xl-8">
  
- <form action="https://formspree.io/stephan@appbieger.com" method="POST">
+ <form action="https://formspree.io/f/mqknzdrz" method="POST">
   <div class="form-group">
     <label for="name">Dein Name </label>
     <input class="form-control" name="name" type="text" id="name" placeholder="">
