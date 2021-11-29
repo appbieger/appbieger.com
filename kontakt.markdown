@@ -15,7 +15,7 @@ permalink: /kontakt
   </div>
   <div class="form-group">
     <label for="email">E-Mail Adresse  </label>
-    <input type="email" name="email" class="form-control" id="email" placeholder="">
+    <input type="email" name="_replyto" class="form-control" id="email" placeholder="">
    </div>
    <div class="form-group">
      <label for="message">Nachricht  </label>
