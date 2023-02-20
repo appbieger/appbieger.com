@@ -5,7 +5,7 @@ date:   2023-01-01 13:43:46 +0200
 categories:   AppBieger Jocono App iOS Android Flutter 
 ---
 # Das Job Connection Network
-<img src="/assets/img/jocono.png" class="rounded float-right"  style="width: 250px; height: auto; margin-left:50px;" alt="Jocono App">
+<img src="/assets/img/JoconApp.png" class="rounded float-right"  style="width: 250px; height: auto; margin-left:50px;" alt="Jocono App">
 
 
 Das Job Connection Network ist eine leistungsstarke App, die Unternehmen dabei unterstützt, ihre Mitarbeiter flexibel und effizient einzusetzen. Mit unserer App übernehmen wir die komplette Schichtplanung für Koordinatoren und halten Mitarbeiter stets auf dem Laufenden über neue Jobs und Schichten, sobald diese freigegeben werden.
