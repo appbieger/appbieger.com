@@ -3,6 +3,9 @@ layout: post
 title:  Die Restaurant App
 date:   2016-11-14 13:43:46 +0200
 categories: Sinequa AppBieger Suchmaschine Enterprise
+permalink: /projekte/restbook-restaurant-app/
+redirect_from:
+  - /sinequa/appbieger/suchmaschine/enterprise/2016/11/14/Restbook-Die_Restaurant_App.html
 ---
 <img src="/assets/img/restbook1.png" class="rounded float-right"  style="width: 250px; height: auto; margin-left:50px;" alt="Restbook App">
   

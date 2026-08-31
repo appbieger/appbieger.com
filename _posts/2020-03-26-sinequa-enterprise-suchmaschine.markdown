@@ -3,6 +3,9 @@ layout: post
 title:  "Sinequa die Enterprise Suchmaschine"
 date:   2020-03-26 13:43:46 +0200
 categories: Sinequa AppBieger Suchmaschine Enterprise
+permalink: /projekte/sinequa-enterprise-suchmaschine/
+redirect_from:
+  - /sinequa/appbieger/suchmaschine/enterprise/2020/03/26/Sinequa.html
 ---
  <img src="/assets/img/sinequa-logo.jpg" class="rounded float-right"  style="width: 250px; height: auto; margin-left:50px;" alt="Sinequa">
  

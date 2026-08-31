@@ -3,6 +3,9 @@ layout: post
 title:  "DSL-Doktor"
 date:   2014-10-24 13:43:46 +0200
 categories: Sinequa AppBieger Suchmaschine Enterprise
+permalink: /projekte/dsl-doktor/
+redirect_from:
+  - /sinequa/appbieger/suchmaschine/enterprise/2014/10/24/DSL-Dokor.html
 ---
 # Hilft bei der Optimierung deines DSL-Anschlusses
 Mit dieser App können Sie Ihren DSL-Anschluss optimieren.

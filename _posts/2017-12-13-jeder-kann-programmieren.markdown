@@ -3,6 +3,9 @@ layout: post
 title:  "Jeder kann Programmieren"
 date:   2017-12-13 13:43:46 +0200
 categories: Sinequa AppBieger Suchmaschine Enterprise
+permalink: /projekte/jeder-kann-programmieren/
+redirect_from:
+  - /sinequa/appbieger/suchmaschine/enterprise/2017/12/13/Jeder-kann-programmieren.html
 ---
  <img src="/assets/img/von-der-idee-bis-zur-app.jpg" class="rounded float-right"  style="width: 450px; height: auto; margin-left:50px;" alt="Schule Programmieren">
   

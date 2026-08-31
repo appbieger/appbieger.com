@@ -3,6 +3,9 @@ layout: post
 title:  "Jocono"
 date:   2023-01-01 13:43:46 +0200
 categories: App Jocono  
+permalink: /projekte/jocono/
+redirect_from:
+  - /app/jocono/2023/01/01/jocono.html
 ---
 
 # Das Job Connection Network

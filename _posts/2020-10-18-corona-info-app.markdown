@@ -3,6 +3,9 @@ layout: post
 title:  "Corona Info App"
 date:   2020-10-18 09:43:46 +0200
 categories: Corona Covid-19 App
+permalink: /projekte/corona-info-app/
+redirect_from:
+  - /corona/covid-19/app/2020/10/18/Corona-Info-App.html
 ---
 
 

@@ -32,10 +32,14 @@ url: "https://appbieger.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
   # We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir: _scss
+
+# Beitraege liegen unter /projekte/<slug>/ - gilt auch fuer kuenftige Posts.
+permalink: /projekte/:slug/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
