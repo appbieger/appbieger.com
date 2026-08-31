@@ -25,6 +25,10 @@ description: "Anfragen an AppBieger – per Formular, E-Mail oder Telefon. Steph
    </div>
    <button type="submit" class="btn btn-primary">Senden</button>
    </form>
+
+   <p style="margin-top: 30px;">
+     Lieber direkt anrufen? <a href="tel:+491705880140">0170/5880140</a>
+   </p>
 </div>
 <div class="col-1 col-sm-1 col-md-2 col-lg-2 col-xl-2"></div>
 </div>
