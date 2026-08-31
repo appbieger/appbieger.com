@@ -26,7 +26,7 @@ layout: default
 
       <div style="margin-top: 20px; margin-bottom: 20px;" >
        
-        <img src="./assets/img/{{ menue.image }}" alt="..." class="">
+        <img src="{{ menue.image | prepend: '/assets/img/' | relative_url }}" alt="..." class="">
       </div>
       <div style="margin-top: 20px; margin-bottom: 20px;" >
         <h3> {{ menue.name }}</h3>
@@ -52,7 +52,7 @@ layout: default
 
 
   <div class="row">
-    <a class="container-appbieger-footer2-link" href="./projekte.html">
+    <a class="container-appbieger-footer2-link" href="{{ '/projekte.html' | relative_url }}">
       <button type="button" class="btn btn-primary">Mehr</button>
     </a>
   </div>

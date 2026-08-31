@@ -23,7 +23,7 @@
 
           {% for menue in site.data.topMeue %}
 
-          <a class="page-link" href=" {{ menue.link }}"> {{ menue.name }}</a>
+          <a class="page-link" href="{{ menue.link | relative_url }}"> {{ menue.name }}</a>
         
      
           {% endfor %}

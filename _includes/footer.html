@@ -26,7 +26,7 @@
         {% for menue in site.data.footerMeue %}
 
         <div class="container-appbieger-footer2-div">
-            <a class="container-appbieger-footer2-link" href="{{ menue.link }}">
+            <a class="container-appbieger-footer2-link" href="{{ menue.link | relative_url }}">
               {{ menue.name }}
             </a>
           </div>
