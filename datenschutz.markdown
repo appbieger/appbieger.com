@@ -8,7 +8,7 @@ permalink: /datenschutz
 ### Verantwortlich für die Datenverarbeitung
 
 Stephan Tomforde, Reith 27, 21698 Brest  
-Telefon: (04762) 183107  
+Telefon: 0170/5880140  
 E-Mail: stephan@appbieger.com
 
 ### Aufruf dieser Webseite
