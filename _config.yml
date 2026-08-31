@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: AppBieger Apps
+title: AppBieger
+tagline: Der Partner für Apps, Projekte und Webseiten
 email: stephan@appbieger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mit AppBieger wirst du deine Projekte / Apps / Webseiten erfogreich umsetzen.  
+  Mit AppBieger wirst du deine Projekte / Apps / Webseiten erfolgreich umsetzen.  
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: de
 url: "https://appbieger.com" # the base hostname & protocol for your site
@@ -33,6 +34,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
   # We specify the directory for Jekyll so we can use @imports.
 sass:

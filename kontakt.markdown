@@ -2,6 +2,7 @@
 layout: page
 title: Schreib mir.
 permalink: /kontakt
+description: "Anfragen an AppBieger – per Formular, E-Mail oder Telefon. Stephan Tomforde, Reith bei Brest zwischen Bremen und Hamburg."
 ---
  
 <div class="row">

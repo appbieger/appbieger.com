@@ -2,6 +2,7 @@
 layout: page
 title: Stephan Tomforde 
 permalink: /me
+description: "Stephan Tomforde: 1998 als Elektroniker gestartet, IT studiert und über das Produkt- und Projektmanagement zum AppBieger geworden."
 ---
 <img src="./assets/img/StephanTomforde.jpg" class="rounded float-right"  style="width: 250px; height: 250px; margin-left:50px;" alt="Stephan Tomforde">
  
